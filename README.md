@@ -1,5 +1,5 @@
 # WeLoveMovies | Application Server
-  This project is a backend API that was built using RESTful architecture to handle HTTP requests from a frontend client application (the [WeLoveMovies application](https://github.com/kerimedeiros/we-love-movies-client)). The server allows users to search for movies, theaters, and reviews from the frontend application and provides update & delete capabilities for admin users. 
+  This project is a backend API that was built using RESTful architecture to handle HTTP requests from a front end client application (the [WeLoveMovies application](https://github.com/kerimedeiros/we-love-movies-client)). The server allows users to search for movies, theaters, and reviews from the frontend application and provides update & delete capabilities for admin users. 
 
 ## Deployed Application
 Server deployed here: https://we-love-movies-server-enwl.onrender.com/movies
